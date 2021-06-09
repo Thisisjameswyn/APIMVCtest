@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7/MYTe1h+GkHnlRZ4oYFbYVtMAeejCqm/onsexi0kZZgtnpU2eZC5802t/FjLTykWrWODosBMq5JK9q55VYXg==",
+  "success": true,
+  "projectFilePath": "D:\\Epicodus\\API_MVC\\travelclient.solution\\travelclient\\travelclient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
